@@ -1,0 +1,10 @@
+keypair
+*.tfstate
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+*.log
+*.tfvars
+*.tfvars.json
+*.tfvars.yaml
+*.tfvars.yml    
