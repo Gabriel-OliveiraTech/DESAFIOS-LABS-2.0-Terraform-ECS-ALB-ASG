@@ -7,5 +7,4 @@ keypair
 *.tfvars
 *.tfvars.json
 *.tfvars.yaml
-*.tfvars.yml    
-.gitgnore
+*.tfvars.yml
