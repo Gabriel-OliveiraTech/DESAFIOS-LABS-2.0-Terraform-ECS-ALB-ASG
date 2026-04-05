@@ -53,7 +53,7 @@ graph TD
 ## Pré-requisitos
 
 - Terraform >= 1.x
-- AWS CLI configurado com profile `AWS-SSO`
+- AWS CLI configurado com profile
 - Permissões de administrador na conta AWS
 
 ## Como Usar
